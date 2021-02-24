@@ -21,7 +21,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeworkEx1", "HomeworkEx1\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicMemory", "DynamicMemory\DynamicMemory.vcxproj", "{8EDB59CC-182E-47B4-8602-7115B513780C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BirdClass", "..\BirdClass\BirdClass.vcxproj", "{58D04A54-74EE-479B-9A0D-D70A4811C4D2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BirdClass", "BirdClass\BirdClass.vcxproj", "{58D04A54-74EE-479B-9A0D-D70A4811C4D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
